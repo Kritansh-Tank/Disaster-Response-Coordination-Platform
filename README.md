@@ -77,16 +77,6 @@ Open [http://localhost:5000](http://localhost:5000)
 - ✅ Interactive Leaflet.js maps
 - ✅ Dark-themed, modern UI
 
-## AI Tool Usage
-
-This project was built using Antigravity (AI coding assistant):
-- Generated Express API routes and Socket.IO logic
-- Generated Supabase geospatial queries and caching
-- Generated Gemini API integration for location and verification
-- Generated mock social media service
-- Generated Cheerio scraping logic
-- Generated frontend with WebSocket integration
-
 ## Sample Data
 
 ```json
@@ -98,3 +88,40 @@ This project was built using Antigravity (AI coding assistant):
   "owner_id": "netrunnerX"
 }
 ```
+
+## User Interface
+- 📊 Dashboard
+  
+  ![Dashboard](assets/Dashboard.png)
+  
+- 🌪️ Disasters
+
+  ![Disasters](assets/Disasters.png)
+  
+- 📋 Reports
+
+  ![Reports](assets/Reports.png)
+  
+- 📱 Social Feed
+
+  ![Social Feed](assets/Feed.png)
+  
+- 🗺️ Resources
+
+  ![Resources](assets/Resources.png)
+  
+- 📰 Official Updates
+
+  ![Official Updates](assets/Updates.png)
+  
+- 📍 Geocoding
+  
+  ![Geocoding](assets/Geocoding.png)
+  
+- 🔍 Verification
+  
+  ![Verification](assets/Verification.png)
+  
+## License
+
+MIT License - See LICENSE file for details
