@@ -21,7 +21,7 @@ A backend-heavy MERN stack application for disaster response coordination. Featu
 
 ### 2. Environment Variables
 
-Edit `server/.env`:
+Create `server/.env`:
 ```
 SUPABASE_URL=your_supabase_project_url
 SUPABASE_ANON_KEY=your_supabase_anon_key
@@ -125,3 +125,4 @@ Open [http://localhost:5000](http://localhost:5000)
 ## License
 
 MIT License - See LICENSE file for details
+
